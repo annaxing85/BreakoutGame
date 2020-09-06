@@ -10,3 +10,7 @@ You control the paddle with your mouse, moving the paddle to the right and left 
 https://trinket.io/python/83608fd3d1
 
 ## Screenshots
+<img src="Breakout1.png" width="550" >
+<img src="Breakout2.png" width="550" >
+<img src="Breakout3.png" width="550" >
+<img src="Breakout4.png" width="550" >
